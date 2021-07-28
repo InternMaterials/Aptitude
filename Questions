@@ -36,3 +36,29 @@ On dividing (i) by (ii), we get: x = 40.
 Due to stoppages, it covers 9 km less.
 
 Time taken to cover 9 km =		9/54	x 60	min	= 10 min.
+
+
+4. Two cars pass each other in opposite direction. How long would they take to be 500 km apart?
+
+I.The sum of their speeds is 135 km/hr.
+
+II. The difference of their speed is 25 km/hr.
+
+A.	I alone sufficient while II alone not sufficient to answer
+B.	II alone sufficient while I alone not sufficient to answer
+C.	Either I or II alone sufficient to answer
+D.	Both I and II are not sufficient to answer
+E.	Both I and II are necessary to answer
+Answer: Option A
+
+Explanation:
+
+I gives, relative speed = 135 km/hr.
+
+ Time taken =	500/135	hrs.
+
+II does not give the relative speed.
+
+ I alone gives the answer and II is irrelevant.
+
+ Correct answer is (A).
